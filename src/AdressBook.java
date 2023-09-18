@@ -1,4 +1,4 @@
-public class AdressBook {
+public class AddressBook {
     public void addBuddy() {
     }
     public void removeBuddy() {
